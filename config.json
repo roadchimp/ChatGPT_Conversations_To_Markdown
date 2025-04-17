@@ -1,0 +1,9 @@
+{
+  "user_name": "You",
+  "assistant_name": "ChatGPT",
+  "date_format": "%Y-%m-%d %H:%M:%S",
+  "file_name_format": "{title}",
+  "include_date": true,
+  "message_separator": "\n\n",
+  "skip_empty_messages": true
+}
